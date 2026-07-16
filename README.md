@@ -1,4 +1,4 @@
-<img width="1366" height="651" alt="image" src="https://github.com/user-attachments/assets/4d7d600f-1534-47e8-8f50-4b83823ec1b1" />
+
 # 🏨 LuxuryStay Management Suite
 
 > **LuxuryStay Management Suite** is a premium, professional, and fully-functional Hotel Management System (HMS) designed to streamline end-to-end hospitality operations. Crafted with an elegant and modern **"Natural Tones"** design theme, this software elevates hotel, resort, and boutique stay management into a seamless digital experience.
