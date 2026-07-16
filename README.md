@@ -1,11 +1,11 @@
 
-# 🏨 LuxuryStay Management Suite
+#  LuxuryStay Management Suite
 
 > **LuxuryStay Management Suite** is a premium, professional, and fully-functional Hotel Management System (HMS) designed to streamline end-to-end hospitality operations. Crafted with an elegant and modern **"Natural Tones"** design theme, this software elevates hotel, resort, and boutique stay management into a seamless digital experience.
 
 ---
 
-## 🎨 Visual Identity & The "Natural Tones" Aesthetic
+##  Visual Identity & The "Natural Tones" Aesthetic
 
 The interface is engineered to evoke a high-end, luxury boutique vibe, prioritizing aesthetic warmth, readability, and modern minimalism:
 
@@ -15,7 +15,7 @@ The interface is engineered to evoke a high-end, luxury boutique vibe, prioritiz
 
 ---
 
-## 🛠️ Core Functional Modules
+##  Core Functional Modules
 
 ### 1. Interactive Dashboard (Main Console)
 *   **Real-time Metrics:** Elegant counters displaying live performance indicators including Occupancy Rate, Average Daily Rate (ADR), Daily Revenue, and Active Guest statistics.
@@ -44,7 +44,7 @@ The interface is engineered to evoke a high-end, luxury boutique vibe, prioritiz
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 *   **Frontend:** React.js, TypeScript, Vite, Tailwind CSS
 *   **Styling & UI:** Custom "Natural Tones" palette, Lucide React (Icons)
@@ -53,7 +53,7 @@ The interface is engineered to evoke a high-end, luxury boutique vibe, prioritiz
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 Make sure you have [Bun](https://bun.sh/) or [Node.js](https://nodejs.org/) installed.
