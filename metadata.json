@@ -1,0 +1,6 @@
+{
+  "name": "LuxuryStay HMS",
+  "description": "A premium modern Full-Stack Hotel Management System with an advanced analytics dashboard, booking and room management, staff directory, billing and invoicing, housekeeping and maintenance logs, feedback, and settings config.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
